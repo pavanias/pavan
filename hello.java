@@ -5,5 +5,6 @@ public class hello.java
 		System.out.println("wellcome to java,bash");
 		System.out.println("wellcome to mosurri ");
                 System.out.println("wellcome to kasakasthan ");
+		System.out.println("wellcome to goa ");
 	}
 }
